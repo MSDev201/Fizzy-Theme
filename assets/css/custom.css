@@ -10,3 +10,7 @@
     --bg-color-light: #fff3f3;
     --shadow: rgba(238,95,91,0.25);
   }
+
+#discourse-embed-frame iframe {
+    height: inherit;
+}
